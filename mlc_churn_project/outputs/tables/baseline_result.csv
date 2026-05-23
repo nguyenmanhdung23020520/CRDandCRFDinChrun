@@ -1,0 +1,2 @@
+model,random_seed,max_depth,dropped_features,f1_positive_yes
+RandomForestClassifier,1234,None,"total_day_charge, total_eve_charge, total_night_charge, total_intl_charge",0.7586206896551724
