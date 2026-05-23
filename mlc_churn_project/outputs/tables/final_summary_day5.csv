@@ -1,0 +1,2 @@
+"dataset_rows","dataset_columns","target","positive_class","churn_yes_ratio","dropped_features","baseline_f1","crd_result_file","crfd_result_file"
+5000,20,"churn","yes",0.1414,"total_day_charge, total_eve_charge, total_night_charge, total_intl_charge",0.758620689655172,"available","available"
